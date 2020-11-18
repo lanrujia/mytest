@@ -7,4 +7,9 @@ public class HelloWorld {
 		System.out.println("hello world!!!");
 	}
 	
+	/**
+	 * fun1方法
+	 */
+	public void fun1() {}
+	
 }
