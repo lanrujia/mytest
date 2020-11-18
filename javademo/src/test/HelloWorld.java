@@ -10,6 +10,6 @@ public class HelloWorld {
 	/**
 	 * fun1方法
 	 */
-	public void fun1() {}
+	public void fun1() {System.out.println();}
 	
 }
